@@ -14,7 +14,7 @@ Week 0 - Scratch Project
 
 Week 1 - C Basics, Conditionals, Loops
 
-Week 2 - Arrays, Functions, Debugging
+Week 2 - Arrays, Functions, Strings
 
 Week 3 - Algorithms, Sorting, Searching
 
@@ -38,15 +38,18 @@ git clone https://github.com/lettymoon/cs50-repository.git
 
 ### Running the Code
 
-Some projects require a C compiler or Python environment. For C programs, you can use gcc:
+Some projects require a C compiler or Python environment. 
 
+#### For C programs, you can use gcc:
+``` bash
 gcc filename.c -o filename
 ./filename
+```
 
 For Python scripts:
-
+``` bash
 python3 filename.py
-
+```
 ### Resources
 
 CS50 Course Website
@@ -55,4 +58,6 @@ CS50 GitHub
 
 CS50 YouTube Channel
 
-License
+### License
+
+MIT License
